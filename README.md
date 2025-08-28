@@ -1,6 +1,6 @@
 # T1 and T2 Weighted Imaging of a Chicken Egg
 
-This project provides a Python-based pipeline for the analysis of Nuclear Magnetic Resonance (NMR) relaxation data from a chicken egg. The primary goal is to determine the optimal imaging parameters (TR and TE) for generating T1-weighted and T2-weighted contrast between the yolk and albumen using a Spin-Echo sequence.
+This project provides a Python-based pipeline for the analysis of Nuclear Magnetic Resonance (NMR) relaxation data from a chicken egg. The primary goal is to determine the optimal imaging parameters (TR and TE) for generating T1-weighted and T2-weighted contrast between the yolk and albumen.
 
 ## Background
 
